@@ -7,10 +7,13 @@
 ```
 youtube-files/
 ├── README.md
-└── tools/              # پوشه اصلی ابزار
-    ├── images/         # همه تصاویر (png, jpg, svg, ...)
-    ├── scripts/        # اسکریپت‌ها (py, sh, js, ...)
-    └── data/           # فایل‌های داده و خروجی‌ها (json, csv, txt, ...)
+└── tools/                          # پوشه اصلی ابزار
+    ├── images/                     # همه تصاویر (png, jpg, svg, ...)
+    │   └── season-2-hack/          # فصل دوم هک
+    ├── scripts/                    # اسکریپت‌ها (py, sh, js, ...)
+    │   └── season-2-hack/          # فصل دوم هک
+    └── data/                       # فایل‌های داده و خروجی‌ها (json, csv, txt, ...)
+        └── season-2-hack/          # فصل دوم هک
 ```
 
 ## قواعد نام‌گذاری
