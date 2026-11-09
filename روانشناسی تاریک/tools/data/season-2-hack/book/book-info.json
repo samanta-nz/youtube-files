@@ -1,0 +1,34 @@
+{
+  "title": "روان‌شناسی تاریک",
+  "title_en": "Dark Psychology",
+  "language": "fa",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "دست‌کاری پنهان عواطف",
+      "slides": 30,
+      "dir": "chapter-01"
+    },
+    {
+      "chapter": 2,
+      "title": "متقاعدسازی تاریک",
+      "slides": 30,
+      "dir": "chapter-02"
+    },
+    {
+      "chapter": 3,
+      "title": "کنترل نامحسوس ذهن",
+      "slides": 30,
+      "dir": "chapter-03"
+    }
+  ],
+  "thumbnail_count": 15,
+  "slide_size": "1920x1080",
+  "thumbnail_size": "1280x720",
+  "font": "Vazirmatn",
+  "palette": {
+    "ink": "#080A0F",
+    "crimson": "#CE2A3E",
+    "smoke_white": "#F3F5F8"
+  }
+}
