@@ -1,0 +1,96 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "status": "TODO",
+  "segment_shots": [
+    {
+      "segment_id": "SEG01",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A011",
+        "A012"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG02",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A021",
+        "A022"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG03",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A031",
+        "A032"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG04",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A041",
+        "A042"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG05",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A051",
+        "A052"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG06",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A061",
+        "A062"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG07",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A071",
+        "A072"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG08",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A081",
+        "A082"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG09",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A091",
+        "A092"
+      ],
+      "selected": []
+    },
+    {
+      "segment_id": "SEG10",
+      "status": "TODO_AFTER_LICENSE_CLEARANCE",
+      "candidate_asset_ids": [
+        "A101",
+        "A102"
+      ],
+      "selected": []
+    }
+  ]
+}
