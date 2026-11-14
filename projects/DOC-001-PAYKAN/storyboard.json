@@ -1,0 +1,348 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "status": "DRAFT_PENDING_SCRIPT_APPROVAL",
+  "duration_estimate_seconds": 1368,
+  "units": "s",
+  "segments": [
+    {
+      "id": "SEG01",
+      "title_fa": "قلاب روایی",
+      "start_estimated_seconds": 0,
+      "target_seconds": 44,
+      "end_estimated_seconds": 44,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F001",
+        "F026"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S12"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "حرکت نقشه ایران/بریتانیا، ورود پیکان و محو نام روتس",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "مقایسهٔ زمانی ۱۹۶۷ و ۲۰۰۵؛ چهار جمله قلاب با تایپوگرافی",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG01"
+    },
+    {
+      "id": "SEG02",
+      "title_fa": "ظهور یک امپراتوری خانوادگی",
+      "start_estimated_seconds": 44,
+      "target_seconds": 143,
+      "end_estimated_seconds": 187,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F002",
+        "F003"
+      ],
+      "source_ids": [
+        "S01"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نقشهٔ برندهای هیلمن، هامبر، سان‌بیم، سینگر، کامر، کریر",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "اینفوگرافیک مالکیت/ادغام و کارخانه‌های تولیدی",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG02"
+    },
+    {
+      "id": "SEG03",
+      "title_fa": "دامِ مقیاس و کارخانهٔ لینوود",
+      "start_estimated_seconds": 187,
+      "target_seconds": 189,
+      "end_estimated_seconds": 376,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F003",
+        "F004"
+      ],
+      "source_ids": [
+        "S01"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "گراف چرخه سود کم، سرمایه‌گذاری عقب‌افتاده، طراحی قدیمی",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نقشه مسیر قطعات کارخانه لینوود، مشکلات ایمپ، نمودار مفهومی",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG03"
+    },
+    {
+      "id": "SEG04",
+      "title_fa": "کرایسلر وارد می‌شود",
+      "start_estimated_seconds": 376,
+      "target_seconds": 125,
+      "end_estimated_seconds": 501,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F005",
+        "F006",
+        "F007"
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "سند مذاکرات ۱۷ ژانویه ۱۹۶۷ با بازنویسی کوتاه و دقیق",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "جدول سهم سرمایه تزریقی و انتقال کنترل، تفکیک وام و سهام",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG04"
+    },
+    {
+      "id": "SEG05",
+      "title_fa": "پلی از بریتانیا تا ایران",
+      "start_estimated_seconds": 501,
+      "target_seconds": 168,
+      "end_estimated_seconds": 669,
+      "business_failure_focus": false,
+      "fact_ids": [
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013"
+      ],
+      "source_ids": [
+        "S01",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نقشه مسیر سفارش Rootes→Iran National، تصویر شماتیک CKD",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "خط تولید طراحی‌شدهٔ پیکان، دیاگرام فنی موتور/انتقال قدرت",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG05"
+    },
+    {
+      "id": "SEG06",
+      "title_fa": "پیشرفتِ ایرانی، بحرانِ بریتانیایی",
+      "start_estimated_seconds": 669,
+      "target_seconds": 176,
+      "end_estimated_seconds": 845,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018"
+      ],
+      "source_ids": [
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نمودار ستونی تولید ۱۹۷۷ و کارت عددی ۹۰۸۶۶/۹۸۰۵۱",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "مقایسه خط زمانی روتس و ایران با نمودار حمایت احتمالی ۱۹۷۵",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG06"
+    },
+    {
+      "id": "SEG07",
+      "title_fa": "پروندهٔ فروشِ اروپا",
+      "start_estimated_seconds": 845,
+      "target_seconds": 126,
+      "end_estimated_seconds": 971,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F019",
+        "F020",
+        "F021",
+        "F027"
+      ],
+      "source_ids": [
+        "S05",
+        "S06"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "سند رسمی ۱۰ اوت ۱۹۷۸ و نمودار تجزیه قرارداد",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "انیمیشن تغییر مالکیت Rootes→Chrysler→Peugeot/Talbot",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG07"
+    },
+    {
+      "id": "SEG08",
+      "title_fa": "چرا پیکان ماند؟",
+      "start_estimated_seconds": 971,
+      "target_seconds": 170,
+      "end_estimated_seconds": 1141,
+      "business_failure_focus": false,
+      "fact_ids": [
+        "F022",
+        "F023",
+        "F024",
+        "F025"
+      ],
+      "source_ids": [
+        "S07",
+        "S10",
+        "S11"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "تایم‌لاین ایران ۱۹۸۰ تا ۲۰۰۵ و تغییر سواری به وانت",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نمودار مفهومی دوام خودرو در بازارهای متفاوت",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG08"
+    },
+    {
+      "id": "SEG09",
+      "title_fa": "پنج خطایِ مدیریتی از دلِ پرونده",
+      "start_estimated_seconds": 1141,
+      "target_seconds": 151,
+      "end_estimated_seconds": 1292,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F001",
+        "F002",
+        "F003",
+        "F004",
+        "F006",
+        "F018",
+        "F020"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S12"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "پنج کارت تحلیلی هزینه/مقیاس/سود/نقدینگی/حاکمیت",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نمودار علّی بدون ادعای علیتِ تک‌عاملی",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG09"
+    },
+    {
+      "id": "SEG10",
+      "title_fa": "پایان و جمع‌بندی",
+      "start_estimated_seconds": 1292,
+      "target_seconds": 76,
+      "end_estimated_seconds": 1368,
+      "business_failure_focus": true,
+      "fact_ids": [
+        "F001",
+        "F023",
+        "F026"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "visuals": [
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "نمای بازگشت به دو خط‌زمان؛ پایان روتس و تولید پیکان",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        },
+        {
+          "type": "ORIGINAL_GRAPHIC_OR_LICENSED_MEDIA",
+          "description": "کلوزآپ گرافیکی تاریخ‌ها و جمع‌بندی",
+          "license_gate": "MUST_CLEAR_ORIGINAL_MEDIA_BEFORE_USE"
+        }
+      ],
+      "motion_rule": "slow camera movement; annotate original/illustrative material",
+      "on_screen_text_policy": "only short verified facts and dates",
+      "tts_segment_id": "SEG10"
+    }
+  ],
+  "policy": "archival actual footage must be licensed and labeled; no fabricated event shown as real"
+}
