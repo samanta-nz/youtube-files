@@ -1,0 +1,64 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "language": "fa-IR",
+  "status": "PRE_APPROVAL_DRAFT",
+  "rules": [
+    "خوانش فارسی معیار ایران",
+    "کسرهٔ اضافه به‌درستی ادا شود؛ «گروهِ روتس»، «خطِ تولید»",
+    "مکث کوتاه در پایان جمله، مکث بلندتر در پایان پاراگراف",
+    "راوی نقل قول مستقیم ندارد؛ هیچ دیالوگی به شخصیت واقعی نسبت داده نشود",
+    "نام‌های لاتین در متن به نویسه‌های فارسی برای TTS تبدیل شده‌اند",
+    "اعداد روایت به واژه نوشته شده‌اند؛ جدول اسناد عددی در داستان تصویری بماند"
+  ],
+  "proper_nouns": [
+    {
+      "written": "روتس",
+      "pronounced_fa": "روتْس"
+    },
+    {
+      "written": "هیلمن هانتر",
+      "pronounced_fa": "هیلْمَن هانْتِر"
+    },
+    {
+      "written": "هیلمن ایمپ",
+      "pronounced_fa": "هیلْمَن ایمْپ"
+    },
+    {
+      "written": "لینوود",
+      "pronounced_fa": "لین‌وود"
+    },
+    {
+      "written": "رایتون",
+      "pronounced_fa": "رایْتون"
+    },
+    {
+      "written": "کرایسلر",
+      "pronounced_fa": "کِرایْسْلِر"
+    },
+    {
+      "written": "پژو",
+      "pronounced_fa": "پِژو"
+    },
+    {
+      "written": "تالبوت",
+      "pronounced_fa": "تالْبوت"
+    },
+    {
+      "written": "احمد و محمود خیامی",
+      "pronounced_fa": "اَحمَد و مَحمودِ خَیّامی"
+    },
+    {
+      "written": "ایران‌ناسیونال",
+      "pronounced_fa": "ایران ناسیونال"
+    },
+    {
+      "written": "کامر",
+      "pronounced_fa": "کامِر"
+    },
+    {
+      "written": "کریر",
+      "pronounced_fa": "کَرْیِر"
+    }
+  ],
+  "manual_final_review_required": "Full linguistic diacritization and TTS pronunciation must be verified after user script approval; automatic vowels not claimed."
+}
