@@ -1,0 +1,60 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "status": "ESTIMATED_PRE_AUDIO",
+  "timebase": "seconds",
+  "narration_rate_estimate_wpm": 132,
+  "total_estimated_seconds": 1368,
+  "segments": [
+    {
+      "id": "SEG01",
+      "start_s": 0,
+      "duration_s": 44
+    },
+    {
+      "id": "SEG02",
+      "start_s": 44,
+      "duration_s": 143
+    },
+    {
+      "id": "SEG03",
+      "start_s": 187,
+      "duration_s": 189
+    },
+    {
+      "id": "SEG04",
+      "start_s": 376,
+      "duration_s": 125
+    },
+    {
+      "id": "SEG05",
+      "start_s": 501,
+      "duration_s": 168
+    },
+    {
+      "id": "SEG06",
+      "start_s": 669,
+      "duration_s": 176
+    },
+    {
+      "id": "SEG07",
+      "start_s": 845,
+      "duration_s": 126
+    },
+    {
+      "id": "SEG08",
+      "start_s": 971,
+      "duration_s": 170
+    },
+    {
+      "id": "SEG09",
+      "start_s": 1141,
+      "duration_s": 151
+    },
+    {
+      "id": "SEG10",
+      "start_s": 1292,
+      "duration_s": 76
+    }
+  ],
+  "final_timeline_required_after_user_audio": true
+}
