@@ -1,0 +1,150 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "research_cutoff": "2026-11-14",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "The Rootes Group: From Growth to Takeover",
+      "author_or_publisher": "Begley, Collis, Donnelly",
+      "date": "2019",
+      "url": "https://pure.coventry.ac.uk/ws/portalfiles/portal/40454356/Binder4.pdf",
+      "source_type": "academic_peer_reviewed_manuscript",
+      "doi": "https://doi.org/10.1080/00076791.2019.1598974",
+      "media_license_status": "research_only_copyright_held",
+      "uses": "فروپاشی مالی، دلایل ساختاری، تأثیر سفارش‌های قطعات هانتر برای ایران بر جریان نقدی",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S02",
+      "title": "Rootes Motors and the Chrysler Corporation",
+      "author_or_publisher": "Hansard / UK Parliament",
+      "date": "1967-01-17",
+      "url": "https://hansard.parliament.uk/Lords%E2%80%8F/1967-01-17/debates/e7929b18-0050-474c-8b10-f0249e66301c/RootesMotorsAndTheChryslerCorporation",
+      "source_type": "primary_parliamentary_record",
+      "doi": null,
+      "media_license_status": "media_reuse_review_needed",
+      "uses": "سرمایه‌گذاری اولیه ۱۹۶۴، توافق کنترل ۱۹۶۷، تا حدود ۲۰ میلیون پوند منابع تازه و تعهدهای خریدار",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S03",
+      "title": "Chrysler UK Limited",
+      "author_or_publisher": "Hansard / House of Commons",
+      "date": "1975-12-16",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1975/dec/16/chrysler-uk-limited",
+      "source_type": "primary_parliamentary_record",
+      "doi": null,
+      "media_license_status": "media_reuse_review_needed",
+      "uses": "زیان تجاری انباشته مورد انتظار £80m در ۱۹۶۷ تا پایان ۱۹۷۵؛ تصمیم شرکت مادر درباره تأمین مالی",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S04",
+      "title": "Chrysler UK Limited (Financial Assistance)",
+      "author_or_publisher": "Hansard / House of Commons",
+      "date": "1975-12-17",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1975/dec/17/chrysler-uk-limited-financial-assistance",
+      "source_type": "primary_parliamentary_record",
+      "doi": null,
+      "media_license_status": "media_reuse_review_needed",
+      "uses": "تعهد احتمالی حداکثر £162.5m و اجزای وام، ضمانت و حمایت؛ NOT cash spent",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S05",
+      "title": "PSA Peugeot Citroën 2014 Registration Document",
+      "author_or_publisher": "PSA Peugeot Citroën / Stellantis archive",
+      "date": "2015-03-27",
+      "url": "https://www.stellantis.com/content/dam/stellantis-corporate/archives/psa/regulated-information/2014/peugeotsa_2015_ddr_2014_va.pdf",
+      "source_type": "primary_corporate_regulatory_filing",
+      "doi": null,
+      "media_license_status": "research_only_copyright_held",
+      "uses": "فروش عملیات تولیدی و فروش اروپایی کرایسلر به پژو در ۱۹۷۸ و انتقال تالبوت در ۱۹۸۰؛ ص ۶",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S06",
+      "title": "Bulletin des commissions, 17 octobre 1978",
+      "author_or_publisher": "French Senate",
+      "date": "1978-10-17",
+      "url": "https://www.senat.fr/fileadmin/cru-1754303000/Histoire/Textes__debats_et_grandes_lois/Bulletins_des_commissions__1959-1998_/1978-1979/B1978_2.pdf",
+      "source_type": "primary_parliamentary_record",
+      "doi": null,
+      "media_license_status": "media_reuse_review_needed",
+      "uses": "توافق ۱۰ اوت ۱۹۷۸، ۲۳۰ میلیون دلار نقد، ۱.۸ میلیون سهم و ۱۵.۵٪ سرمایه",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S07",
+      "title": "IRAN NATIONAL COMPANY",
+      "author_or_publisher": "Parviz Alizadeh / Encyclopaedia Iranica",
+      "date": "2006-12-15",
+      "url": "https://www.iranicaonline.org/articles/iran-national-company/",
+      "source_type": "scholarly_reference",
+      "doi": null,
+      "media_license_status": "research_only_copyright_held",
+      "uses": "تاریخ ایران‌ناسیونال، قرارداد ۱۹۶۶، ۵۱ دستگاه اولیه، تولید ۱۹۷۷، ملی شدن در ۱۹۸۰",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S08",
+      "title": "UNIDO Master Demand Study: Transport Equipment Industries Iran",
+      "author_or_publisher": "United Nations Industrial Development Organization",
+      "date": "1970s",
+      "url": "https://downloads.unido.org/ot/46/90/4690001/00001-10000_06967.pdf",
+      "source_type": "primary_industrial_technical_report",
+      "doi": null,
+      "media_license_status": "educational_quote_with_credit; graphics_original",
+      "uses": "پیکان گونه‌ای از هیلمن هانتر، موتور ۱۷۲۴ سانتی‌متر مکعب و انتقال قدرت عقب، ترکیب قطعات وارداتی و داخلی",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S09",
+      "title": "UNIDO Historical Assembly Plants Table (Iran)",
+      "author_or_publisher": "United Nations Industrial Development Organization",
+      "date": "1960s",
+      "url": "https://www.unido.org/publications/ot/9637047/pdf",
+      "source_type": "primary_industrial_statistical_report",
+      "doi": null,
+      "media_license_status": "research_only_media_check",
+      "uses": "آمار ۶۸۴۰ خودرو سال ۱۹۶۷ و ۱۶۵۰۰ سال ۱۹۶۸، با بررسی تعریف دوره و جدول",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S10",
+      "title": "Iran bids farewell to Hillman Hunter",
+      "author_or_publisher": "Robert Tait / The Guardian",
+      "date": "2005-04-22",
+      "url": "https://www.theguardian.com/world/2005/apr/22/iran.roberttait",
+      "source_type": "contemporaneous_reporting",
+      "doi": null,
+      "media_license_status": "research_only_no_image_reuse",
+      "uses": "توقف سواری پیکان سال ۲۰۰۵، دوام سی‌وهشت سال، مسئله استانداردهای زیست‌محیطی و تعمیرپذیری",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S11",
+      "title": "Paykan (1967–2005) Autocade",
+      "author_or_publisher": "Autocade",
+      "date": "undated",
+      "url": "https://autocade.net/index.php/Paykan_%281967%E2%80%932005%29",
+      "source_type": "secondary_car_reference",
+      "doi": null,
+      "media_license_status": "research_only_no_images",
+      "uses": "تفکیک ۲۰۰۵ پایان سواری از ۲۰۱۵ پایان باردو؛ روایات فنی باید مستقل تأیید شوند",
+      "accessed_on": "2026-11-14"
+    },
+    {
+      "id": "S12",
+      "title": "The Rootes Group: From Growth to Take-over (abstract)",
+      "author_or_publisher": "Begley et al. / Business History",
+      "date": "2019",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00076791.2019.1598974",
+      "source_type": "peer_reviewed_abstract",
+      "doi": "https://doi.org/10.1080/00076791.2019.1598974",
+      "media_license_status": "research_only",
+      "uses": "مرجع نشر مقاله؛ نجات گروه از نابودی از راه تصاحب کرایسلر",
+      "accessed_on": "2026-11-14"
+    }
+  ]
+}
