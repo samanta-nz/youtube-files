@@ -1,0 +1,285 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "scope": "fact_status_refers_to_statement_precision_only",
+  "facts": [
+    {
+      "id": "F001",
+      "statement_fa": "در فاصله ۱۹۶۵ تا ۱۹۶۷ گروه روتس دچار فروپاشی مالی شد؛ این عبارت به معنی ورشکستگی قضایی احراز‌شده نیست.",
+      "period": "1965-1967",
+      "source_ids": [
+        "S01",
+        "S12"
+      ],
+      "status": "VERIFY_ECONOMIC_NOT_LEGAL",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F002",
+      "statement_fa": "گسترش روتس از طریق تصاحب برندها در دهه‌های ۱۹۲۰ و ۱۹۳۰ انجام گرفت، اما ادغام کامل عملیاتیِ بخش‌ها ناکافی بود.",
+      "period": "1920s-1960s",
+      "source_ids": [
+        "S01"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F003",
+      "statement_fa": "ضعف سرمایه‌گذاری، خطوط قدیمی، مدل‌های پیر، فشار هزینه و مشکلات روابط کار از عوامل بحران روتس بودند.",
+      "period": "1960s",
+      "source_ids": [
+        "S01"
+      ],
+      "status": "VERIFIED_ANALYSIS",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F004",
+      "statement_fa": "هیلمن ایمپ در ۱۹۶۳ معرفی شد و پروژه کارخانه لینوود با هزینه و دشواری زنجیره تأمین همراه بود.",
+      "period": "1963-1970s",
+      "source_ids": [
+        "S01"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F005",
+      "statement_fa": "روتس از ۱۹۶۴ سرمایه‌گذاری قابل توجهی از کرایسلر دریافت کرده بود.",
+      "period": "1964",
+      "source_ids": [
+        "S02"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F006",
+      "statement_fa": "دولت بریتانیا در ژانویه ۱۹۶۷ با انتقال کنترل رأی روتس به کرایسلر در مقابل تعهدها موافقت کرد.",
+      "period": "1967-01",
+      "source_ids": [
+        "S02"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F007",
+      "statement_fa": "تزریق منابع طرح کنترل ۱۹۶۷ تا حدود ۲۰ میلیون پوند اعلام شد و لزوماً به معنی قیمت معامله نبود.",
+      "period": "1967-01",
+      "source_ids": [
+        "S02"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F008",
+      "statement_fa": "پژوهش دانشگاهی ارسال مجموعه‌قطعات هیلمن هانتر به ایران را مؤثر بر جریان نقدی موردنیاز روتس معرفی می‌کند.",
+      "period": "1960s",
+      "source_ids": [
+        "S01"
+      ],
+      "status": "VERIFIED_ANALYSIS",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F009",
+      "statement_fa": "ایران‌ناسیونال در اوت ۱۹۶۲ به دست برادران احمد و محمود خیامی تأسیس شد.",
+      "period": "1962-08",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F010",
+      "statement_fa": "ایران‌ناسیونال در ۱۹۶۶ با روتس برای تولید خودرو بر پایه هیلمن قرارداد بست.",
+      "period": "1966",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F011",
+      "statement_fa": "ایرانیکا تولید تعداد محدودی پیکان در ۱۹۶۶ ثبت می‌کند؛ عرضه و تولید شناخته‌شده عمومی از ۱۹۶۷ است.",
+      "period": "1966-1967",
+      "source_ids": [
+        "S07",
+        "S09",
+        "S10"
+      ],
+      "status": "VERIFIED_WITH_DEFINITION_NOTE",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F012",
+      "statement_fa": "پیکان نسخهٔ ایرانی هیلمن هانتر و آغاز تولید آن متکی بر قطعات وارداتی بود.",
+      "period": "1967 onward",
+      "source_ids": [
+        "S07",
+        "S08"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F013",
+      "statement_fa": "گزارش صنعتی UNIDO پیکان را خودروی چهارسیلندر ۱۷۲۴ سانتی‌متر مکعب با محرک عقب توصیف می‌کند؛ مشخصات مربوط به نمونه زمان گزارش است.",
+      "period": "1970s",
+      "source_ids": [
+        "S08"
+      ],
+      "status": "VERIFIED_PERIOD_SPECIFIC",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F014",
+      "statement_fa": "ایرانیکا تولید سواری‌های پیکان در ۱۹۷۷ را ۹۰۸۶۶ دستگاه و با احتساب وانت‌ها ۹۸۰۵۱ ثبت کرده است.",
+      "period": "1977",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F015",
+      "statement_fa": "رشد بازار خودرو ایران در دهه ۱۹۷۰ تا حدی متأثر از افزایش درآمد نفتی و تقاضای داخلی بود.",
+      "period": "1970s",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "VERIFIED_ANALYSIS",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F016",
+      "statement_fa": "روند ساخت قطعات داخل ایران‌ناسیونال توسعه یافت؛ درصدهای ساخت داخل در منابع همسان نیستند و عدد واحد وارد روایت نمی‌شود.",
+      "period": "1960s-1970s",
+      "source_ids": [
+        "S07",
+        "S08"
+      ],
+      "status": "VERIFIED_QUALITATIVE",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F017",
+      "statement_fa": "دولت بریتانیا در دسامبر ۱۹۷۵ زیان تجاری انباشته مورد انتظار کرایسلر UK از زمان کنترل ۱۹۶۷ تا پایان ۱۹۷۵ را ۸۰ میلیون پوند اعلام کرد.",
+      "period": "1975-12",
+      "source_ids": [
+        "S03"
+      ],
+      "status": "VERIFIED_ESTIMATE",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F018",
+      "statement_fa": "سقف تعهد احتمالی حمایتی دولت برای کرایسلر بریتانیا در ۱۹۷۵ تا ۱۶۲٫۵ میلیون پوند بود؛ نه پرداخت نقدی قطعیِ کل مبلغ.",
+      "period": "1975-12",
+      "source_ids": [
+        "S03",
+        "S04"
+      ],
+      "status": "VERIFIED_CONTINGENT",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F019",
+      "statement_fa": "کرایسلر در ۱۹۷۸ عملیات تولید و فروش اروپایی خود را به پژو واگذار کرد.",
+      "period": "1978",
+      "source_ids": [
+        "S05",
+        "S06"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F020",
+      "statement_fa": "قرارداد ۱۰ اوت ۱۹۷۸ طبق سنای فرانسه شامل ۲۳۰ میلیون دلار وجه نقد و ۱٫۸ میلیون سهم جدید معادل ۱۵٫۵ درصد سرمایهٔ پژو-سیتروئن بود.",
+      "period": "1978-08-10",
+      "source_ids": [
+        "S06"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F021",
+      "statement_fa": "پس از خرید، عملیات واگذارشده با نام تالبوت ادامه یافت و در ۱۹۸۰ انتقال سازمانی به Automobiles Peugeot انجام شد.",
+      "period": "1978-1980",
+      "source_ids": [
+        "S05"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F022",
+      "statement_fa": "ایران‌ناسیونال در ۱۹۸۰ ملی شد و نام ایران‌خودرو گرفت.",
+      "period": "1980",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F023",
+      "statement_fa": "تولید سواری پیکان در سال ۲۰۰۵ پایان یافت.",
+      "period": "2005",
+      "source_ids": [
+        "S10",
+        "S11"
+      ],
+      "status": "VERIFIED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F024",
+      "statement_fa": "در گزارش ۲۰۰۵ گاردین از استانداردهای محیط‌زیستی، کمبود امکانات ایمنی/راحتی و تعمیرپذیری پیکان یاد شده است.",
+      "period": "2005",
+      "source_ids": [
+        "S10"
+      ],
+      "status": "VERIFIED_ATTRIBUTED",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F025",
+      "statement_fa": "وانت باردو یکی از مشتقات پیکان بعد از توقف سواری ادامه یافت؛ سال توقف آن در برخی منابع ۲۰۱۴/۲۰۱۵ گزارش شده و در روایت تاریخ مشخص ذکر نمی‌شود.",
+      "period": "2005-2015",
+      "source_ids": [
+        "S11"
+      ],
+      "status": "QUALIFIED_NOT_DATE_FINAL",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F026",
+      "statement_fa": "از روی شواهد موجود نمی‌توان فروش روتس را «اعلام ورشکستگی رسمی در دادگاه» نامید.",
+      "period": "1967",
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "status": "VERIFIED_LIMITATION",
+      "exclude_from_script": false
+    },
+    {
+      "id": "F027",
+      "statement_fa": "تعبیر فروش تمامی کرایسلر اروپا در ۱۹۷۸ به قیمت یک دلار با سند سنای فرانسه ناسازگار است.",
+      "period": "1978",
+      "source_ids": [
+        "S06"
+      ],
+      "status": "VERIFIED_DEBUNK",
+      "exclude_from_script": false
+    }
+  ]
+}
