@@ -1,0 +1,269 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "status": "RESEARCHED_NOT_ACQUIRED",
+  "media_entries": [
+    {
+      "id": "A011",
+      "segment_id": "SEG01",
+      "description_fa": "حرکت نقشه ایران/بریتانیا، ورود پیکان و محو نام روتس",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A012",
+      "segment_id": "SEG01",
+      "description_fa": "مقایسهٔ زمانی ۱۹۶۷ و ۲۰۰۵؛ چهار جمله قلاب با تایپوگرافی",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A021",
+      "segment_id": "SEG02",
+      "description_fa": "نقشهٔ برندهای هیلمن، هامبر، سان‌بیم، سینگر، کامر، کریر",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A022",
+      "segment_id": "SEG02",
+      "description_fa": "اینفوگرافیک مالکیت/ادغام و کارخانه‌های تولیدی",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A031",
+      "segment_id": "SEG03",
+      "description_fa": "گراف چرخه سود کم، سرمایه‌گذاری عقب‌افتاده، طراحی قدیمی",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A032",
+      "segment_id": "SEG03",
+      "description_fa": "نقشه مسیر قطعات کارخانه لینوود، مشکلات ایمپ، نمودار مفهومی",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A041",
+      "segment_id": "SEG04",
+      "description_fa": "سند مذاکرات ۱۷ ژانویه ۱۹۶۷ با بازنویسی کوتاه و دقیق",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A042",
+      "segment_id": "SEG04",
+      "description_fa": "جدول سهم سرمایه تزریقی و انتقال کنترل، تفکیک وام و سهام",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A051",
+      "segment_id": "SEG05",
+      "description_fa": "نقشه مسیر سفارش Rootes→Iran National، تصویر شماتیک CKD",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A052",
+      "segment_id": "SEG05",
+      "description_fa": "خط تولید طراحی‌شدهٔ پیکان، دیاگرام فنی موتور/انتقال قدرت",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A061",
+      "segment_id": "SEG06",
+      "description_fa": "نمودار ستونی تولید ۱۹۷۷ و کارت عددی ۹۰۸۶۶/۹۸۰۵۱",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A062",
+      "segment_id": "SEG06",
+      "description_fa": "مقایسه خط زمانی روتس و ایران با نمودار حمایت احتمالی ۱۹۷۵",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A071",
+      "segment_id": "SEG07",
+      "description_fa": "سند رسمی ۱۰ اوت ۱۹۷۸ و نمودار تجزیه قرارداد",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A072",
+      "segment_id": "SEG07",
+      "description_fa": "انیمیشن تغییر مالکیت Rootes→Chrysler→Peugeot/Talbot",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A081",
+      "segment_id": "SEG08",
+      "description_fa": "تایم‌لاین ایران ۱۹۸۰ تا ۲۰۰۵ و تغییر سواری به وانت",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A082",
+      "segment_id": "SEG08",
+      "description_fa": "نمودار مفهومی دوام خودرو در بازارهای متفاوت",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A091",
+      "segment_id": "SEG09",
+      "description_fa": "پنج کارت تحلیلی هزینه/مقیاس/سود/نقدینگی/حاکمیت",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A092",
+      "segment_id": "SEG09",
+      "description_fa": "نمودار علّی بدون ادعای علیتِ تک‌عاملی",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A101",
+      "segment_id": "SEG10",
+      "description_fa": "نمای بازگشت به دو خط‌زمان؛ پایان روتس و تولید پیکان",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    },
+    {
+      "id": "A102",
+      "segment_id": "SEG10",
+      "description_fa": "کلوزآپ گرافیکی تاریخ‌ها و جمع‌بندی",
+      "intended_type": "original_svg_or_rights_cleared_archive",
+      "source_url": null,
+      "rights_status": "NOT_CLEARED_ARCHIVE_OR_PRODUCE_ORIGINAL",
+      "author": null,
+      "license": null,
+      "download_status": "NOT_DOWNLOADED",
+      "use_as_actual_historical_footage": false
+    }
+  ],
+  "archive_candidates": [
+    {
+      "description": "خط مونتاژ تاریخی پیکان",
+      "source_page": "https://ahmadkhayami.com/",
+      "license": "UNKNOWN",
+      "status": "NEEDS_REVIEW",
+      "rule": "do not reuse until rights holder authorizes"
+    },
+    {
+      "description": "تصاویر تاریخ تولید در Motor.es",
+      "source_page": "https://www.motor.es/noticias/ikco-paykan-iran-201522101.html",
+      "license": "UNKNOWN",
+      "status": "NEEDS_REVIEW",
+      "rule": "do not reuse until rights holder authorizes"
+    },
+    {
+      "description": "تصویر پیکان نهایی ۲۰۰۵ Getty",
+      "source_page": "https://www.gettyimages.com/",
+      "license": "COMMERCIAL_RIGHTS_NOT_GRANTED",
+      "status": "BLOCKED",
+      "rule": "do not copy, download, embed or reuse without a valid license"
+    }
+  ]
+}
