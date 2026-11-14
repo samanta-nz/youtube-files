@@ -90,7 +90,11 @@
     "upload_to_youtube": false,
     "publish": false
   },
-  "source_of_truth": "GitHub target repository requires linkage/check before claims of synced full files",
+  "source_of_truth": "GitHub: samanta-nz/youtube-files; branch doc-001-paykan-script-review",
   "budget": "open-source first; no paid API, media licenses, subscription or third party credits without permission",
-  "prohibition": "Do not assert legal bankruptcy of Rootes; do not claim false sale price; do not mislabel re-creations as historical footage"
+  "prohibition": "Do not assert legal bankruptcy of Rootes; do not claim false sale price; do not mislabel re-creations as historical footage",
+  "git_repo": "samanta-nz/youtube-files",
+  "git_branch": "doc-001-paykan-script-review",
+  "git_sync_status": "VERIFIED_28_FILES_ON_REVIEW_BRANCH",
+  "git_visibility": "PUBLIC_REVIEW_BRANCH_NOT_YOUTUBE_PUBLICATION"
 }
