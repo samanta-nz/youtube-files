@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "project_id": "DOC-001-PAYKAN",
+  "title": "پیکان؛ خودرویی که سازنده‌اش سقوط کرد اما در ایران دوام آورد",
+  "production_scope": "business_failure_documentary",
+  "focus_company": "Rootes Group / Chrysler Europe",
+  "paykan_role": "Iran market and afterlife case-study",
+  "legal_bankruptcy_confirmed": false,
+  "workflow": "Chat research and script -> User approves -> User TTS -> Codespaces production -> Chat QC -> Work private upload -> User publication approval",
+  "target_duration_seconds": 1368,
+  "target_min_seconds": 1200,
+  "target_max_seconds": 1500,
+  "video_resolution": "1920x1080",
+  "workspace_language": "fa-IR",
+  "tts_provider": "USER",
+  "source_cutoff": "2026-11-14",
+  "current_stage": "SCRIPT_APPROVAL_REQUESTED",
+  "pipeline": [
+    {
+      "stage": "TOPIC_APPROVED",
+      "status": "DONE"
+    },
+    {
+      "stage": "RESEARCHED",
+      "status": "DONE"
+    },
+    {
+      "stage": "FACTS_VERIFIED",
+      "status": "DONE"
+    },
+    {
+      "stage": "SCRIPT_APPROVED",
+      "status": "NEEDS_REVIEW"
+    },
+    {
+      "stage": "WAITING_FOR_TTS",
+      "status": "BLOCKED"
+    },
+    {
+      "stage": "TTS_RECEIVED",
+      "status": "TODO"
+    },
+    {
+      "stage": "ASSETS_READY",
+      "status": "TODO"
+    },
+    {
+      "stage": "AUDIO_ALIGNED",
+      "status": "TODO"
+    },
+    {
+      "stage": "GRAPHICS_READY",
+      "status": "TODO"
+    },
+    {
+      "stage": "MIXED",
+      "status": "TODO"
+    },
+    {
+      "stage": "RENDERED",
+      "status": "TODO"
+    },
+    {
+      "stage": "QC_PASSED",
+      "status": "TODO"
+    },
+    {
+      "stage": "UPLOADED_PRIVATE",
+      "status": "TODO"
+    },
+    {
+      "stage": "USER_APPROVAL",
+      "status": "TODO"
+    },
+    {
+      "stage": "SCHEDULED/PUBLISHED",
+      "status": "TODO"
+    },
+    {
+      "stage": "ANALYTICS_REVIEW",
+      "status": "TODO"
+    }
+  ],
+  "gates": {
+    "script_approved_by_user": false,
+    "final_tts_text_locked": false,
+    "media_rights_cleared": false,
+    "tts_audio_received": false,
+    "work_usage_authorized": "ONLY_WHEN_CHAT_CODESPACES_INSUFFICIENT",
+    "upload_to_youtube": false,
+    "publish": false
+  },
+  "source_of_truth": "GitHub target repository requires linkage/check before claims of synced full files",
+  "budget": "open-source first; no paid API, media licenses, subscription or third party credits without permission",
+  "prohibition": "Do not assert legal bankruptcy of Rootes; do not claim false sale price; do not mislabel re-creations as historical footage"
+}
