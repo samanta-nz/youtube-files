@@ -1,0 +1,18 @@
+{
+  "project_id": "DOC-001-PAYKAN",
+  "status": "RESEARCH_QC_PASSED_SCRIPT_USER_REVIEW_PENDING",
+  "checks": {
+    "history_and_sources": "PASS_FOR_CLAIMS_USED_IN_SCRIPT",
+    "economic_vs_legal_bankruptcy": "PASS",
+    "sale_1978_factcheck": "PASS",
+    "source_registry": "PASS",
+    "script_structure_and_tts_segment_consistency": "PENDING_VALIDATOR",
+    "user_script_approval": "NOT_GRANTED",
+    "full_tts_diacritization": "NEEDS_FINAL_MANUAL_CHECK",
+    "tts_audio": "NOT_RECEIVED",
+    "archival_media_rights": "NOT_CLEARED",
+    "video_render_and_technical_qc": "NOT_STARTED"
+  },
+  "open_gates": ["USER_SCRIPT_APPROVAL", "FINAL_TTS_PROOFREAD", "TTS_AUDIO_DELIVERY", "RIGHTS_CLEARANCE_BEFORE_VIDEO"],
+  "no_false_success_claims": true
+}
